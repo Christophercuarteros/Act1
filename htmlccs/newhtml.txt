@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="styLesheet" href="style.css">
+    <link rel="styLesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
+    <title>Document</title>
+</head>
+<body>
+
+    <h1>Relax and take a Bite</h1>
+    <nav>
+        <ul>
+            <a href="#"><li>home</li></a>
+            <a href="#"><li>Order</li></a>
+            <a href="#"><li>Near</li></a>
+            <a href="#"><li>About</li></a>
+        </ul>
+    </nav>
+
+    <section class="items">
+        <div class="item">
+            <img src="Cheeseburger.jpg" alt="">
+            <h4>Burger</h4>
+            <button>Order</button>
+        </div>
+        <div class="item">
+            <img src="pizza.jpg" alt="">
+            <h4>Pizza</h4>
+            <button>Order</button>
+        </div>
+        <div class="item">
+            <img src="pasta.jpg" alt="">
+            <h4>pasta</h4>
+            <button>Order</button>
+        </div>
+        <div class="item">
+            <img src="Ube ice cream.jpg" alt="">
+            <h4>Ube ice cream</h4>
+            <button>Order</button>
+        </div>
+        <div class="item">
+            <img src="coffe latte.jpg" alt="">
+            <h4>Coffe latte</h4>
+            <button>Order</button>
+        </div>
+        <div class="item">
+            <img src="lemon ice tea.jpg" alt="">
+            <h4>Lemon ice tea</h4>
+            <button>Order</button>
+        </div>    
+    </section>
+    <footer>
+        <div class="footer">
+            <div class="container">
+                <div class="row">
+                    <div class="footer-col">
+                        <h4><company/h4>
+                        <ul>
+                            <li><a href="#">about us</a></li>
+                            <li><a href="#">our services</a></li>
+                            <li><a href="#">privacy policy</a></li>
+                            <li><a href="#">affiliate program</a></li>
+                        </ul>
+                    </div>
+                    <div class="footer-col">
+                        <h4>get help</h4>
+                        <ul>
+                            <li><a href="#">FAQ</a></li>
+                            <li><a href="#">shipping</a></li>
+                            <li><a href="#">returns</a></li>
+                            <li><a href="#">order status</a></li>
+                            <li><a href="#">payment options</a></li>
+                        </ul>
+                    </div>
+                    <div class="footer-col">
+                        <h4>online shop</h4>
+                        <ul>
+                            <li><a href="#">Foods</a></li>
+                            <li><a href="#">Drinks</a></li>
+                    
+                        </ul>
+                    </div>
+                    <div class="footer-col">
+                        <h4>follow us</h4>
+                        <div class="social-links">
+                            
+                            <a href="#"><i class="fab fa-facebook-f"></i></a>
+                            <a href="#"><i class="fab fa-twitter"></i></a>
+                            <a href="#"><i class="fab fa-instagram"></i></a>
+                            <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+    </footer>
+    
+</body>
+</html> 
